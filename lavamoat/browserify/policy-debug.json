@@ -1,0 +1,17 @@
+{
+  "debugInfo": {
+    "1": {
+      "moduleRecord": {
+        "content": "console.log(\"Hello. I am a background script.\");",
+        "file": "/Users/jakemoxey/git/test-ext/build/chrome-mv3-prod/background.803675d6.js",
+        "importMap": {
+        },
+        "packageName": "$root$",
+        "specifier": 1,
+        "type": "js"
+      }
+    }
+  },
+  "resources": {
+  }
+}
